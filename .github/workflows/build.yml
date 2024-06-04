@@ -6,7 +6,7 @@ on:
 
 env:
   PACT_BROKER_BASE_URL: https://marriott.pactflow.io/
-  PACT_PROVIDER: pactflow-example-provider
+  PACT_PROVIDER: RLM Consumer Pact
   PACT_BROKER_TOKEN: 1MwbLLQudlPiXvzyRCbrBw
   REACT_APP_API_BASE_URL: http://localhost:3001
   GIT_COMMIT: ${{ github.sha }}
